@@ -14,7 +14,7 @@ Para instalar las dependencias debes ejecutar
 ```
 npm install
 ```
-### Ejemplo:
+### Ejemplo de ejecución de la aplicacion para obtener el clima:
 ```
 node app -d "Santiago"
 ```
